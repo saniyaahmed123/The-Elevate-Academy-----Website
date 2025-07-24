@@ -41,5 +41,7 @@ SCHOOL/
 ├── staff.jpg
 └── style.css
 ```
-
+📬 Contact
+For inquiries or feedback:
+📧 saniya2012ahmed@gamil.com
 
