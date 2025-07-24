@@ -23,7 +23,9 @@ Welcome to the official repository for **The Elevate Academy** school website �
 - JavaScript (Optional for interactivity)
 
 📂 Folder Structure
+```
 SCHOOL/
+│
 ├── assets/
 ├── academics.css
 ├── academics.html
@@ -38,4 +40,6 @@ SCHOOL/
 ├── staff.html
 ├── staff.jpg
 └── style.css
+```
+
 
